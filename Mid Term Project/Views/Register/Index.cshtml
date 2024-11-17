@@ -1,0 +1,16 @@
+﻿
+@{
+   // ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<form method="post">
+
+    <input type="text" class="form-control" placeholder="User name" value="@Model.Uname" name="Uname" />
+    <span class="text-danger" @Html.ValidationMessage("Uname")>
+        <input type="password" class="form-control" placeholder="Password" name="Password" />
+        <span class="text-danger" @Html.ValidationMessage("Password")>
+            <br>
+            <input type="submit" value="Register" class="btn btn-success" />
+
+</form>

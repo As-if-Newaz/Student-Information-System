@@ -1,0 +1,605 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Adv.Net\\Mid Term Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|d:\\adv.net\\mid term project\\mid term project\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\ef\\school.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\ef\\school.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\schedule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\parent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\parent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\dashboard\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\dashboard\\attendence.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\attendencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\attendencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\val\\passval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\val\\passval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\parentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\parentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Login\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\ef\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\ef\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\ef\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\ef\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\val\\unameval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\val\\unameval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\CoursesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Dashboard\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Mid term\\.netSum24_A-master\\PMSDemo\\PMSDemo\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|D:\\Adv.Net\\Mid Term Project\\mid term project\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3752EE35-BFE6-4E11-8F7B-52C12F333561}|Mid Term Project\\Mid Term Project.csproj|solutionrelative:mid term project\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\DTO\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Create.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Create.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:07:21.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mid Term Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:21:42.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Mid Term Project\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwEIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:57:44.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mid Term Project\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:55:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Mid Term Project\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:05:19.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Delete.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Delete.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Delete.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:53:18.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Auth\\Logged.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Auth\\Logged.cs",
+              "RelativeToolTip": "Mid Term Project\\Auth\\Logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:43:08.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Register\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:37:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\EF\\Student.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Student.cs",
+              "RelativeToolTip": "Mid Term Project\\EF\\Student.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:39:34.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\StudentDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\StudentDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\StudentDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:46:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:02:59.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "School.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\School.edmx",
+              "RelativeDocumentMoniker": "Mid Term Project\\EF\\School.edmx",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\School.edmx [Diagram1]",
+              "RelativeToolTip": "Mid Term Project\\EF\\School.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-04T08:21:05.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Details.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Details.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Details.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Details.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:41:36.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Schedule.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Schedule.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Schedule.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Schedule.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Schedule.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:26:41.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parent.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Parent.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Parent.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Parent.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Parent.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:58:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Edit.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Edit.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:40:06.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attendence.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Attendence.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Dashboard\\Attendence.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Dashboard\\Attendence.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Dashboard\\Attendence.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:50:17.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PassVal.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Val\\PassVal.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Val\\PassVal.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Val\\PassVal.cs",
+              "RelativeToolTip": "Mid Term Project\\Val\\PassVal.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:46:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:06:47.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AttendenceDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\AttendenceDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\AttendenceDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\AttendenceDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\AttendenceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:51:31.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:57:03.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "..\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "ToolTip": "D:\\Adv.Net\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "RelativeToolTip": "..\\.netSum24_A-master\\FormHandling\\FormHandling\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:44:59.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Schedule.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\EF\\Schedule.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Schedule.cs",
+              "RelativeToolTip": "Mid Term Project\\EF\\Schedule.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:39:33.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\ScheduleDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\ScheduleDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\ScheduleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:49:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParentDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\ParentDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\ParentDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\ParentDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\ParentDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:47:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Parent.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\EF\\Parent.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\EF\\Parent.cs",
+              "RelativeToolTip": "Mid Term Project\\EF\\Parent.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:47:23.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "..\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:09:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Web.config",
+              "RelativeDocumentMoniker": "Mid Term Project\\Web.config",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Web.config",
+              "RelativeToolTip": "Mid Term Project\\Web.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-04T08:59:23.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Mid Term Project\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:12:51.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnameVal.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Val\\UnameVal.cs",
+              "RelativeDocumentMoniker": "Mid Term Project\\Val\\UnameVal.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Val\\UnameVal.cs",
+              "RelativeToolTip": "Mid Term Project\\Val\\UnameVal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:46:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "logged.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Auth\\logged.cs",
+              "RelativeDocumentMoniker": "..\\Practice\\PostComment\\PostComment\\PostComment\\Auth\\logged.cs",
+              "ToolTip": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Auth\\logged.cs",
+              "RelativeToolTip": "..\\Practice\\PostComment\\PostComment\\PostComment\\Auth\\logged.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:42:56.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "..\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Adv.Net\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "..\\LabTask\\LabTask\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:05:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "..\\Practice\\PostComment\\PostComment\\PostComment\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T08:01:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\Practice\\PostComment\\PostComment\\PostComment\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\Practice\\PostComment\\PostComment\\PostComment\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:43:41.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid term\\.netSum24_A-master\\PMSDemo\\PMSDemo\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\Mid term\\.netSum24_A-master\\PMSDemo\\PMSDemo\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Adv.Net\\Mid term\\.netSum24_A-master\\PMSDemo\\PMSDemo\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\Mid term\\.netSum24_A-master\\PMSDemo\\PMSDemo\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:25:30.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mid Term Project\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\Adv.Net\\Mid Term Project\\Mid Term Project\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Mid Term Project\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T07:02:41.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\Practice\\PostComment\\PostComment\\PostComment\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Adv.Net\\Practice\\PostComment\\PostComment\\PostComment\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\Practice\\PostComment\\PostComment\\PostComment\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:57:31.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
